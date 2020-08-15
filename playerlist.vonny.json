@@ -1,5 +1,5 @@
 {
-	"$schema": "https://github.com/zyzel-del/blacklist_cheaters_tf2_bot_detector/blob/master/playerlist.vonny.json",
+	"$schema": "https://raw.githubusercontent.com/zyzel-del/blacklist_cheaters_tf2_bot_detector/a8a5d35c8767b8ad8a3c2b89f5c60ce07642bf82/playerlist.vonny.json",
 	"file_info": {
 		"authors": [
 			"vonny"
@@ -68,6 +68,26 @@
 				"time": 0
 			},
 			"steamid": "[U:1:1112860698]"
+		},			
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[NCC] Heart",
+				"time": 0
+			},
+			"steamid": "[U:1:906506385]"
+		},			
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "lexe",
+				"time": 0
+			},
+			"steamid": "[U:1:49545469]"
 		}
 	]
 }
