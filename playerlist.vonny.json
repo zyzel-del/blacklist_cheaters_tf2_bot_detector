@@ -1,5 +1,5 @@
 {
-	"$schema": "https://github.com/zyzel-del/blacklist_cheaters_tf2_bot_detector/blob/master/playerlist.vonny.json",
+	"$schema": "hhttps://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
 	"file_info": {
 		"authors": [
 			"vonny"
@@ -9,16 +9,7 @@
 		"update_url": "https://raw.githubusercontent.com/zyzel-del/blacklist_cheaters_tf2_bot_detector/master/playerlist.vonny.json"
 	},
 	"players": [
-		{
-			"attributes": [
-				"cheater"
-			],
-			"last_seen": {
-				"player_name": "\u042d\u0442\u043e \u043f\u0440\u0438\u043c\u0435\u0440",
-				"time": 0
-			},
-			"steamid": "[U:0:0]"
-		},
+		
 		{
 			"attributes": [
 				"cheater"
