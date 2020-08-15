@@ -1,5 +1,13 @@
 {
-	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"$schema": "https://github.com/zyzel-del/blacklist_cheaters_tf2_bot_detector/blob/master/playerlist.vonny.json",
+	"file_info": {
+		"authors": [
+			"vonny"
+		],
+		"description": "Verified hackers",
+		"title": "@trusted Ban List",
+		"update_url": "https://github.com/zyzel-del/blacklist_cheaters_tf2_bot_detector/blob/master/playerlist.vonny.json"
+	},
 	"players": [
 		{
 			"attributes": [
