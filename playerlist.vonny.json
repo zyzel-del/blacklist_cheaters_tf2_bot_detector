@@ -1,0 +1,65 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"players": [
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u042d\u0442\u043e \u043f\u0440\u0438\u043c\u0435\u0440",
+				"time": 0
+			},
+			"steamid": "[U:0:0]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Anya",
+				"time": 0
+			},
+			"steamid": "[U:1:173412269]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Nika",
+				"time": 0
+			},
+			"steamid": "[U:1:180374942]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Nadyuwa",
+				"time": 0
+			},
+			"steamid": "[U:1:977593934]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Urbanichka | YouTube",
+				"time": 0
+			},
+			"steamid": "[U:1:1111338041]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "griska1",
+				"time": 0
+			},
+			"steamid": "[U:1:1112860698]"
+		}
+	]
+}
